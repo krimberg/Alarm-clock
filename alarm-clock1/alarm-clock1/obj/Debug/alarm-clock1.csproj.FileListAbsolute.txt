@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\alarm-clock1\alarm-clock1\obj\Debug\alarm-clock1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\alarm-clock1\alarm-clock1\obj\Debug\alarm_clock1.Form1.resources
+C:\Users\user\source\repos\alarm-clock1\alarm-clock1\obj\Debug\alarm_clock1.Properties.Resources.resources
+C:\Users\user\source\repos\alarm-clock1\alarm-clock1\obj\Debug\alarm-clock1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\alarm-clock1\alarm-clock1\obj\Debug\alarm-clock1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\alarm-clock1\alarm-clock1\bin\Debug\alarm-clock1.exe.config
+C:\Users\user\source\repos\alarm-clock1\alarm-clock1\bin\Debug\alarm-clock1.exe
+C:\Users\user\source\repos\alarm-clock1\alarm-clock1\bin\Debug\alarm-clock1.pdb
+C:\Users\user\source\repos\alarm-clock1\alarm-clock1\obj\Debug\alarm-clock1.exe
+C:\Users\user\source\repos\alarm-clock1\alarm-clock1\obj\Debug\alarm-clock1.pdb
